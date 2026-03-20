@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-.5 38.52756 559.4252 103.70472" width="559.4252" height="103.70472">
+  <defs/>
+  <g id="Canvas_2" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 2</title>
+    <g id="Canvas_2_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_111">
+        <path d="M 481.3858 85.03937 L 522.07874 85.03937 C 526.497 85.03937 530.07874 88.62109 530.07874 93.03937 L 530.07874 105.38583 C 530.07874 109.8041 526.497 113.38583 522.07874 113.38583 L 481.3858 113.38583 C 476.96755 113.38583 473.3858 109.8041 473.3858 105.38583 L 473.3858 93.03937 C 473.3858 88.62109 476.96755 85.03937 481.3858 85.03937 Z" fill="#c0bfbf"/>
+        <path d="M 481.3858 85.03937 L 522.07874 85.03937 C 526.497 85.03937 530.07874 88.62109 530.07874 93.03937 L 530.07874 105.38583 C 530.07874 109.8041 526.497 113.38583 522.07874 113.38583 L 481.3858 113.38583 C 476.96755 113.38583 473.3858 109.8041 473.3858 105.38583 L 473.3858 93.03937 C 473.3858 88.62109 476.96755 85.03937 481.3858 85.03937 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(481.3858 93.7126)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="23.093413" y="9" xml:space="preserve">CRC</tspan>
+        </text>
+      </g>
+      <g id="Graphic_104">
+        <path d="M 424.6929 85.03937 L 462.5512 85.03937 C 466.96946 85.03937 470.5512 88.62109 470.5512 93.03937 L 470.5512 105.38583 C 470.5512 109.8041 466.96946 113.38583 462.5512 113.38583 L 424.6929 113.38583 C 420.27463 113.38583 416.6929 109.8041 416.6929 105.38583 L 416.6929 93.03937 C 416.6929 88.62109 420.27463 85.03937 424.6929 85.03937 Z" fill="#c0bfbf"/>
+        <path d="M 424.6929 85.03937 L 462.5512 85.03937 C 466.96946 85.03937 470.5512 88.62109 470.5512 93.03937 L 470.5512 105.38583 C 470.5512 109.8041 466.96946 113.38583 462.5512 113.38583 L 424.6929 113.38583 C 420.27463 113.38583 416.6929 109.8041 416.6929 105.38583 L 416.6929 93.03937 C 416.6929 88.62109 420.27463 85.03937 424.6929 85.03937 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(424.6929 93.7126)" fill="#414141">
+          <tspan font-family="Lato" font-weight="bold" font-size="9" fill="#414141" x="13.578634" y="9" xml:space="preserve">. . .</tspan>
+        </text>
+      </g>
+      <g id="Graphic_102">
+        <path d="M 36.346457 85.03937 L 77.03937 85.03937 C 81.45765 85.03937 85.03937 88.62109 85.03937 93.03937 L 85.03937 105.38583 C 85.03937 109.8041 81.45765 113.38583 77.03937 113.38583 L 36.346457 113.38583 C 31.92818 113.38583 28.346457 109.8041 28.346457 105.38583 L 28.346457 93.03937 C 28.346457 88.62109 31.92818 85.03937 36.346457 85.03937 Z" fill="#c0bfbf"/>
+        <path d="M 36.346457 85.03937 L 77.03937 85.03937 C 81.45765 85.03937 85.03937 88.62109 85.03937 93.03937 L 85.03937 105.38583 C 85.03937 109.8041 81.45765 113.38583 77.03937 113.38583 L 36.346457 113.38583 C 31.92818 113.38583 28.346457 109.8041 28.346457 105.38583 L 28.346457 93.03937 C 28.346457 88.62109 31.92818 85.03937 36.346457 85.03937 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(36.346457 93.7126)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="0" y="9" xml:space="preserve">Preamble</tspan>
+        </text>
+      </g>
+      <g id="Graphic_81">
+        <text transform="translate(84.37008 71.874015)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="9.036457" y="9" xml:space="preserve">6 bytes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_82">
+        <text transform="translate(141.06299 71.874015)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="1.949842" y="9" xml:space="preserve">6 bytes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_83">
+        <rect x="178.58268" y="85.03937" width="51.02362" height="28.346457" fill="#414141"/>
+        <rect x="178.58268" y="85.03937" width="51.02362" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(183.58268 88.7126)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x=".9570603" y="9" xml:space="preserve">Ethertype</tspan>
+          <tspan font-family="Lato" font-style="italic" font-weight="bold" font-size="8" fill="white" x="5.83181" y="19" xml:space="preserve">0xACDC</tspan>
+        </text>
+      </g>
+      <g id="Graphic_84">
+        <rect x="79.37008" y="85.03937" width="56.69291" height="28.346457" fill="#878787"/>
+        <rect x="79.37008" y="85.03937" width="56.69291" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(84.37008 88.2126)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x=".19620653" y="9" xml:space="preserve">Destination </tspan>
+          <tspan font-family="Lato" font-size="9" fill="white" x="7.4142065" y="20" xml:space="preserve">Address</tspan>
+        </text>
+      </g>
+      <g id="Graphic_85">
+        <rect x="136.06299" y="85.03937" width="42.519685" height="28.346457" fill="#878787"/>
+        <rect x="136.06299" y="85.03937" width="42.519685" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(141.06299 88.2126)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="2.687842" y="9" xml:space="preserve">Source </tspan>
+          <tspan font-family="Lato" font-size="9" fill="white" x=".3275919" y="20" xml:space="preserve">Address</tspan>
+        </text>
+      </g>
+      <g id="Graphic_86">
+        <text transform="translate(183.58268 71.874015)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="6.20181" y="9" xml:space="preserve">2 bytes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_87">
+        <rect x="286.2992" y="85.03937" width="39.68504" height="28.346457" fill="#414141"/>
+        <rect x="286.2992" y="85.03937" width="39.68504" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(291.2992 88.2126)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="3.0592698" y="9" xml:space="preserve">ePDU</tspan>
+          <tspan font-family="Lato" font-size="9" fill="white" x="2.6970198" y="20" xml:space="preserve">Count</tspan>
+        </text>
+      </g>
+      <g id="Graphic_88">
+        <text transform="translate(291.2992 71.874015)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x=".53251976" y="9" xml:space="preserve">2 bytes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_89">
+        <rect x="325.98425" y="85.03937" width="42.519685" height="28.346457" fill="#414141"/>
+        <rect x="325.98425" y="85.03937" width="42.519685" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(330.98425 88.2126)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="4.476592" y="9" xml:space="preserve">ePDU </tspan>
+          <tspan font-family="Lato" font-size="9" fill="white" x="11.039842" y="20" xml:space="preserve">#1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_90">
+        <text transform="translate(330.98425 71.874015)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="2.615842" y="9" xml:space="preserve">? bytes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <rect x="368.50393" y="85.03937" width="65.19685" height="28.346457" fill="#414141"/>
+        <rect x="368.50393" y="85.03937" width="65.19685" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(373.50393 93.7126)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="9.458925" y="9" xml:space="preserve">ePDU #2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_92">
+        <text transform="translate(373.50393 71.874015)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="13.954425" y="9" xml:space="preserve">? bytes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_96">
+        <rect x="453.5433" y="85.03937" width="45.35433" height="28.346457" fill="#414141"/>
+        <rect x="453.5433" y="85.03937" width="45.35433" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(458.5433 88.2126)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="5.893916" y="9" xml:space="preserve">ePDU </tspan>
+          <tspan font-family="Lato" font-size="9" fill="white" x="12.549416" y="20" xml:space="preserve">#n</tspan>
+        </text>
+      </g>
+      <g id="Graphic_97">
+        <text transform="translate(458.5433 71.874015)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="4.033166" y="9" xml:space="preserve">? bytes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_109">
+        <rect x="229.6063" y="85.03937" width="56.69291" height="28.346457" fill="#414141"/>
+        <rect x="229.6063" y="85.03937" width="56.69291" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(234.6063 88.7126)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="2.1717065" y="9" xml:space="preserve">Frametype</tspan>
+          <tspan font-family="Lato" font-style="italic" font-weight="bold" font-size="8" fill="white" x="14.352457" y="19" xml:space="preserve">0x01</tspan>
+        </text>
+      </g>
+      <g id="Graphic_110">
+        <text transform="translate(234.6063 71.874015)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="10.948957" y="9" xml:space="preserve">1 byte</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

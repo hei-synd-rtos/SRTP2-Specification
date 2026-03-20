@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-8.753937 226.77165 292.87265 227.27165" width="292.87265" height="227.27165">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#414141">
+      <g>
+        <path d="M 4 0 L 0 -1.5 L 0 1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="#414141">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-5 -3 6 6" markerWidth="6" markerHeight="6" color="#414141">
+      <g>
+        <path d="M -4 0 L 0 1.5 L 0 -1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Mechanisms" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Mechanisms</title>
+    <g id="Mechanisms_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_204">
+        <line x1="70.86614" y1="286.2992" x2="70.86614" y2="425.19685" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_205">
+        <line x1="212.59842" y1="257.95275" x2="212.59842" y2="425.19685" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_208">
+        <path d="M 68.869776 360.3267 L 72.86251 360.3267 C 75.07165 360.3267 76.86251 362.11757 76.86251 364.3267 L 76.86251 381.72277 C 76.86251 383.9319 75.07165 385.72277 72.86251 385.72277 L 68.869776 385.72277 C 66.66064 385.72277 64.869776 383.9319 64.869776 381.72277 L 64.869776 364.3267 C 64.869776 362.11757 66.66064 360.3267 68.869776 360.3267 Z" fill="#c0bfbf"/>
+      </g>
+      <g id="Graphic_209">
+        <path d="M 68.869776 311.42975 L 72.86251 311.42975 C 75.07165 311.42975 76.86251 313.2206 76.86251 315.42975 L 76.86251 319.1496 C 76.86251 321.35874 75.07165 323.1496 72.86251 323.1496 L 68.869776 323.1496 C 66.66064 323.1496 64.869776 321.35874 64.869776 319.1496 L 64.869776 315.42975 C 64.869776 313.2206 66.66064 311.42975 68.869776 311.42975 Z" fill="#c0bfbf"/>
+      </g>
+      <g id="Graphic_210">
+        <path d="M 31.692308 255.1181 L 109.38583 255.1181 C 111.59497 255.1181 113.38583 256.90897 113.38583 259.1181 L 113.38583 282.2992 C 113.38583 284.50835 111.59497 286.2992 109.38583 286.2992 L 31.692308 286.2992 C 29.48317 286.2992 27.692308 284.50835 27.692308 282.2992 L 27.692308 259.1181 C 27.692308 256.90897 29.48317 255.1181 31.692308 255.1181 Z" fill="#414141"/>
+        <text transform="translate(32.692308 263.20866)" fill="white">
+          <tspan font-family="Lato" font-size="12" fill="white" x="20.74976" y="12" xml:space="preserve">SRTP2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_211">
+        <path d="M 174.07874 255.1181 L 251.77226 255.1181 C 253.9814 255.1181 255.77226 256.90897 255.77226 259.1181 L 255.77226 282.2992 C 255.77226 284.50835 253.9814 286.2992 251.77226 286.2992 L 174.07874 286.2992 C 171.8696 286.2992 170.07874 284.50835 170.07874 282.2992 L 170.07874 259.1181 C 170.07874 256.90897 171.8696 255.1181 174.07874 255.1181 Z" fill="#c0bfbf"/>
+        <text transform="translate(175.07874 263.20866)" fill="#414141">
+          <tspan font-family="Lato" font-size="12" fill="#414141" x="8.81276" y="12" xml:space="preserve">Application</tspan>
+        </text>
+      </g>
+      <g id="Line_212">
+        <line x1="212.59842" y1="311.81102" x2="76.76614" y2="311.81102" marker-end="url(#FilledArrow_Marker)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_213">
+        <text transform="translate(75.86614 299.80315)" fill="#414141">
+          <tspan font-family="Lato" font-size="8" fill="#414141" x="11.996142" y="8" xml:space="preserve">svSubscribeRequest(</tspan>
+          <tspan font-family="Lato" font-size="8" fill="#0072a3" y="8" xml:space="preserve">SV Group</tspan>
+          <tspan font-family="Lato" font-size="8" fill="#414141" y="8" xml:space="preserve">)</tspan>
+        </text>
+      </g>
+      <g id="Line_214">
+        <line x1="207.39851" y1="323.95236" x2="70.86614" y2="323.1496" marker-start="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="1.0,1.0" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_215">
+        <text transform="translate(75.86614 311.14173)" fill="#414141">
+          <tspan font-family="Lato" font-style="italic" font-size="8" fill="#414141" x="51.87614" y="8" xml:space="preserve">response</tspan>
+        </text>
+      </g>
+      <g id="Line_217">
+        <line x1="206.69853" y1="386.31045" x2="70.86614" y2="385.5118" marker-start="url(#FilledArrow_Marker_3)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_218">
+        <line x1="65.96614" y1="360" x2="56.69291" y2="360" marker-start="url(#FilledArrow_Marker_3)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_219">
+        <text transform="translate(75.86614 373.50393)" fill="#414141">
+          <tspan font-family="Lato" font-size="8" fill="#414141" x="1.4241423" y="8" xml:space="preserve">svDataIndication(</tspan>
+          <tspan font-family="Lato" font-size="8" fill="#0072a3" y="8" xml:space="preserve">SV Group</tspan>
+          <tspan font-family="Lato" font-size="8" fill="#414141" y="8" xml:space="preserve">,</tspan>
+          <tspan font-family="Lato" font-size="8" fill="#0072a3" y="8" xml:space="preserve"> SV Data</tspan>
+          <tspan font-family="Lato" font-size="8" fill="#414141" y="8" xml:space="preserve">)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_223">
+        <path d="M 24.84252 351.49606 L 54.52756 351.49606 C 57.28898 351.49606 59.52756 353.73464 59.52756 356.49606 L 59.52756 363.50393 C 59.52756 366.26536 57.28898 368.50393 54.52756 368.50393 L 24.84252 368.50393 C 22.081096 368.50393 19.84252 366.26536 19.84252 363.50393 L 19.84252 356.49606 C 19.84252 353.73464 22.081096 351.49606 24.84252 351.49606 Z" fill="#c0bfbf"/>
+        <path d="M 24.84252 351.49606 L 54.52756 351.49606 C 57.28898 351.49606 59.52756 353.73464 59.52756 356.49606 L 59.52756 363.50393 C 59.52756 366.26536 57.28898 368.50393 54.52756 368.50393 L 24.84252 368.50393 C 22.081096 368.50393 19.84252 366.26536 19.84252 363.50393 L 19.84252 356.49606 C 19.84252 353.73464 22.081096 351.49606 24.84252 351.49606 Z" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(24.84252 351.49606)" fill="#414141">
+          <tspan font-family="Lato" font-size="7" fill="#414141" x="4.43702" y="7" xml:space="preserve">MPDU</tspan>
+        </text>
+      </g>
+      <g id="Graphic_224">
+        <path d="M 39.850393 360 L 47.188976 360 C 48.293546 360 49.188976 360.89543 49.188976 362 L 49.188976 366.50393 C 49.188976 367.6085 48.293546 368.50393 47.188976 368.50393 L 39.850393 368.50393 C 38.745824 368.50393 37.850393 367.6085 37.850393 366.50393 L 37.850393 362 C 37.850393 360.89543 38.745824 360 39.850393 360 Z" fill="#414141"/>
+        <path d="M 39.850393 360 L 47.188976 360 C 48.293546 360 49.188976 360.89543 49.188976 362 L 49.188976 366.50393 C 49.188976 367.6085 48.293546 368.50393 47.188976 368.50393 L 39.850393 368.50393 C 38.745824 368.50393 37.850393 367.6085 37.850393 366.50393 L 37.850393 362 C 37.850393 360.89543 38.745824 360 39.850393 360 Z" stroke="#878787" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(37.850393 360.25197)" fill="white">
+          <tspan font-family="Lato" font-size="7" fill="white" x="1.5392915" y="7" xml:space="preserve">SV</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

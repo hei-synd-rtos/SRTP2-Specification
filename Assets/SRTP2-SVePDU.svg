@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-.5 95.22047 312.81102 103.70472" width="312.81102" height="103.70472">
+  <defs/>
+  <g id="Canvas_2" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 2</title>
+    <g id="Canvas_2_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_138">
+        <path d="M 197.92126 141.73228 L 275.46457 141.73228 C 279.88284 141.73228 283.46457 145.314 283.46457 149.73228 L 283.46457 162.07874 C 283.46457 166.49702 279.88284 170.07874 275.46457 170.07874 L 197.92126 170.07874 C 193.50298 170.07874 189.92126 166.49702 189.92126 162.07874 L 189.92126 149.73228 C 189.92126 145.314 193.50298 141.73228 197.92126 141.73228 Z" fill="#414141"/>
+        <path d="M 197.92126 141.73228 L 275.46457 141.73228 C 279.88284 141.73228 283.46457 145.314 283.46457 149.73228 L 283.46457 162.07874 C 283.46457 166.49702 279.88284 170.07874 275.46457 170.07874 L 197.92126 170.07874 C 193.50298 170.07874 189.92126 166.49702 189.92126 162.07874 L 189.92126 149.73228 C 189.92126 145.314 193.50298 141.73228 197.92126 141.73228 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(199.59842 150.40551)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="19.757652" y="9" xml:space="preserve">SV Payload</tspan>
+        </text>
+      </g>
+      <g id="Graphic_132">
+        <path d="M 36.346457 141.73228 L 85.54331 141.73228 C 89.96158 141.73228 93.54331 145.314 93.54331 149.73228 L 93.54331 162.07874 C 93.54331 166.49702 89.96158 170.07874 85.54331 170.07874 L 36.346457 170.07874 C 31.92818 170.07874 28.346457 166.49702 28.346457 162.07874 L 28.346457 149.73228 C 28.346457 145.314 31.92818 141.73228 36.346457 141.73228 Z" fill="#414141"/>
+        <path d="M 36.346457 141.73228 L 85.54331 141.73228 C 89.96158 141.73228 93.54331 145.314 93.54331 149.73228 L 93.54331 162.07874 C 93.54331 166.49702 89.96158 170.07874 85.54331 170.07874 L 36.346457 170.07874 C 31.92818 170.07874 28.346457 166.49702 28.346457 162.07874 L 28.346457 149.73228 C 28.346457 145.314 31.92818 141.73228 36.346457 141.73228 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(30.086614 145.40551)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="5.285175" y="9" xml:space="preserve">ePDU Type</tspan>
+          <tspan font-family="Lato" font-style="italic" font-weight="bold" font-size="8" fill="white" x="18.604425" y="19" xml:space="preserve">0x00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_133">
+        <text transform="translate(33.346457 128.56693)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="10.948957" y="9" xml:space="preserve">1 byte</tspan>
+        </text>
+      </g>
+      <g id="Graphic_134">
+        <rect x="85.03937" y="141.73228" width="56.69291" height="28.346457" fill="#414141"/>
+        <rect x="85.03937" y="141.73228" width="56.69291" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(90.03937 150.40551)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="4.5004565" y="9" xml:space="preserve">SV Group</tspan>
+        </text>
+      </g>
+      <g id="Graphic_135">
+        <text transform="translate(90.03937 128.56693)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="10.948957" y="9" xml:space="preserve">1 byte</tspan>
+        </text>
+      </g>
+      <g id="Graphic_136">
+        <rect x="141.73228" y="141.73228" width="56.69291" height="28.346457" fill="#414141"/>
+        <rect x="141.73228" y="141.73228" width="56.69291" height="28.346457" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(146.73228 150.40551)" fill="white">
+          <tspan font-family="Lato" font-size="9" fill="white" x="9.783457" y="9" xml:space="preserve">Length</tspan>
+        </text>
+      </g>
+      <g id="Graphic_137">
+        <text transform="translate(146.73228 128.56693)" fill="#414141">
+          <tspan font-family="Lato" font-size="9" fill="#414141" x="9.036457" y="9" xml:space="preserve">2 bytes</tspan>
+        </text>
+      </g>
+      <g id="Graphic_139">
+        <text transform="translate(203.4252 128.56693)" fill="#414141">
+          <tspan font-family="Lato" font-style="italic" font-size="9" fill="#414141" x="13.154434" y="9" xml:space="preserve">Length</tspan>
+          <tspan font-family="Lato" font-size="9" fill="#414141" y="9" xml:space="preserve"> bytes</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

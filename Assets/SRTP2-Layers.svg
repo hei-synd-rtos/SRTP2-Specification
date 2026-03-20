@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="79.37008 0 411.67777 328.8189" width="411.67777" height="328.8189">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#414141">
+      <g>
+        <path d="M 4 0 L 0 -1.5 L 0 1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#414141">
+      <g>
+        <path d="M 2.4 0 L 0 -.9 L 0 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Layers" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Layers</title>
+    <g id="Layers_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_58">
+        <path d="M 117.38583 265.1484 L 458.7014 265.1484 C 460.91053 265.1484 462.7014 266.93925 462.7014 269.1484 L 462.7014 296.47244 C 462.7014 298.68158 460.91053 300.47244 458.7014 300.47244 L 117.38583 300.47244 C 115.17669 300.47244 113.38583 298.68158 113.38583 296.47244 L 113.38583 269.1484 C 113.38583 266.93925 115.17669 265.1484 117.38583 265.1484 Z" fill="#c0bfbf"/>
+        <text transform="translate(118.38583 274.3104)" fill="#414141">
+          <tspan font-family="Lato" font-size="14" fill="#414141" x="143.50928" y="14" xml:space="preserve">Ethernet</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <path d="M 117.38583 225.89945 L 458.7014 225.89945 C 460.91053 225.89945 462.7014 227.69031 462.7014 229.89945 L 462.7014 257.2235 C 462.7014 259.43264 460.91053 261.2235 458.7014 261.2235 L 117.38583 261.2235 C 115.17669 261.2235 113.38583 259.43264 113.38583 257.2235 L 113.38583 229.89945 C 113.38583 227.69031 115.17669 225.89945 117.38583 225.89945 Z" fill="#878787"/>
+        <text transform="translate(118.38583 235.06148)" fill="white">
+          <tspan font-family="Lato" font-size="14" fill="white" x="149.71128" y="14" xml:space="preserve">SRTP2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_60">
+        <path d="M 117.38583 198.4252 L 223.20775 198.4252 C 225.4169 198.4252 227.20775 200.21606 227.20775 202.4252 L 227.20775 229.74924 C 227.20775 231.95838 225.4169 233.74924 223.20775 233.74924 L 117.38583 233.74924 C 115.17669 233.74924 113.38583 231.95838 113.38583 229.74924 L 113.38583 202.4252 C 113.38583 200.21606 115.17669 198.4252 117.38583 198.4252 Z" fill="#878787"/>
+        <text transform="translate(118.38583 210.08722)" fill="white">
+          <tspan font-family="Lato" font-size="10" fill="white" x="46.01096" y="10" xml:space="preserve">SV</tspan>
+        </text>
+      </g>
+      <g id="Graphic_61">
+        <path d="M 235.13265 198.4252 L 340.95457 198.4252 C 343.1637 198.4252 344.95457 200.21606 344.95457 202.4252 L 344.95457 229.74924 C 344.95457 231.95838 343.1637 233.74924 340.95457 233.74924 L 235.13265 233.74924 C 232.9235 233.74924 231.13265 231.95838 231.13265 229.74924 L 231.13265 202.4252 C 231.13265 200.21606 232.9235 198.4252 235.13265 198.4252 Z" fill="#878787"/>
+        <text transform="translate(236.13265 210.08722)" fill="white">
+          <tspan font-family="Lato" font-size="10" fill="white" x="45.73346" y="10" xml:space="preserve">EV</tspan>
+        </text>
+      </g>
+      <g id="Graphic_62">
+        <path d="M 352.6614 198.4252 L 458.48334 198.4252 C 460.6925 198.4252 462.48334 200.21606 462.48334 202.4252 L 462.48334 229.74924 C 462.48334 231.95838 460.6925 233.74924 458.48334 233.74924 L 352.6614 233.74924 C 350.45228 233.74924 348.6614 231.95838 348.6614 229.74924 L 348.6614 202.4252 C 348.6614 200.21606 350.45228 198.4252 352.6614 198.4252 Z" fill="#878787"/>
+        <text transform="translate(353.6614 210.08722)" fill="white">
+          <tspan font-family="Lato" font-size="10" fill="white" x="41.02096" y="10" xml:space="preserve">MSG</tspan>
+        </text>
+      </g>
+      <g id="Graphic_63">
+        <path d="M 111.71653 28.346457 L 458.04724 28.346457 C 460.2564 28.346457 462.04724 30.137318 462.04724 32.346457 L 462.04724 109.38583 C 462.04724 111.59497 460.2564 113.38583 458.04724 113.38583 L 111.71653 113.38583 C 109.5074 113.38583 107.71653 111.59497 107.71653 109.38583 L 107.71653 32.346457 C 107.71653 30.137318 109.5074 28.346457 111.71653 28.346457 Z" fill="#c0bfbf"/>
+        <text transform="translate(112.71653 62.36614)" fill="#414141">
+          <tspan font-family="Lato" font-size="14" fill="#414141" x="138.29236" y="14" xml:space="preserve">Application</tspan>
+        </text>
+      </g>
+      <g id="Line_64">
+        <path d="M 136.06299 113.38583 C 136.06299 113.38583 147.40157 134.15595 147.40157 158.24803 C 147.40157 174.2749 142.38383 186.7584 139.0243 193.32039" marker-end="url(#FilledArrow_Marker)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+      </g>
+      <g id="Line_65">
+        <line x1="136.06299" y1="198.4252" x2="136.06299" y2="121.48583" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_23">
+        <text transform="translate(119.89764 166.57276) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="42277293e-20" y="11" xml:space="preserve">sync</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <text transform="translate(148.23228 172.79326) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="0" y="11" xml:space="preserve">publish</tspan>
+        </text>
+      </g>
+      <g id="Line_67">
+        <line x1="190.7559" y1="113.38583" x2="191.66066" y2="190.32576" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_68">
+        <text transform="translate(176.59055 178.29326) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="0" y="11" xml:space="preserve">subscribe</tspan>
+        </text>
+      </g>
+      <g id="Line_69">
+        <line x1="209.76378" y1="198.4252" x2="209.76378" y2="121.48583" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_70">
+        <text transform="translate(193.59842 174.37726) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="61106675e-20" y="11" xml:space="preserve">indicate</tspan>
+        </text>
+      </g>
+      <g id="Line_73">
+        <line x1="261.62205" y1="113.38583" x2="262.5268" y2="190.32576" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_74">
+        <text transform="translate(247.4567 172.79326) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="0" y="11" xml:space="preserve">publish</tspan>
+        </text>
+      </g>
+      <g id="Line_75">
+        <line x1="301.3071" y1="113.38583" x2="302.21184" y2="190.32576" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_76">
+        <text transform="translate(287.14173 178.29326) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="0" y="11" xml:space="preserve">subscribe</tspan>
+        </text>
+      </g>
+      <g id="Line_77">
+        <line x1="320.31496" y1="198.4252" x2="320.31496" y2="121.48583" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_78">
+        <text transform="translate(304.1496 174.37726) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="61106675e-20" y="11" xml:space="preserve">indicate</tspan>
+        </text>
+      </g>
+      <g id="Line_79">
+        <line x1="372.17323" y1="113.38583" x2="373.078" y2="190.32576" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_80">
+        <text transform="translate(358.00787 173.70351) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="6856737e-19" y="11" xml:space="preserve">request</tspan>
+        </text>
+      </g>
+      <g id="Line_81">
+        <line x1="436.53543" y1="198.4252" x2="436.53543" y2="121.48583" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_82">
+        <text transform="translate(420.3701 174.37726) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="61106675e-20" y="11" xml:space="preserve">indicate</tspan>
+        </text>
+      </g>
+      <g id="Line_83">
+        <line x1="391.1811" y1="198.4252" x2="391.1811" y2="121.48583" marker-end="url(#FilledArrow_Marker_2)" stroke="#414141" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_84">
+        <text transform="translate(375.01575 173.83826) rotate(-90)" fill="#414141">
+          <tspan font-family="Lato" font-size="11" fill="#414141" x="0" y="11" xml:space="preserve">confirm</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
