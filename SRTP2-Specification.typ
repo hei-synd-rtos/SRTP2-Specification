@@ -149,7 +149,7 @@ whole network. This timing relationship is illustrated in @srtp2-synchronization
 
 === Sampled Values Publisher
 
-#figure(image("Assets/SRTP2-svPublish.svg", width: 80%), caption: [SV Publish]) <srtp2-sv-publish>
+#figure(image("Assets/SRTP2-SVPublish.svg", width: 80%), caption: [SV Publish]) <srtp2-sv-publish>
 
 To initiate a Sampled Values stream, an application must submit a *Sampled Values Register Request* `svRegisterRequest()` to the underlying SRTP2 stack. The protocol enforces
 strict mutual exclusion for publishing rights: only a single application may publish to a specific *SV Group* at any given time on the same node. Consequently, if an application
